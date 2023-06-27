@@ -1,0 +1,1 @@
+['season', 'year', 'month', 'hour_of_day', 'is_holiday', 'weekday', 'is_workingday', 'weather_situation', 'temperature', 'feels_like_temperature', 'humidity', 'windspeed']

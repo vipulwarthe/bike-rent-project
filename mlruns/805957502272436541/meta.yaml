@@ -1,0 +1,6 @@
+artifact_location: file:///home/ubuntu/mlflow-project/mlruns/805957502272436541
+creation_time: 1687864003271
+experiment_id: '805957502272436541'
+last_update_time: 1687864003271
+lifecycle_stage: active
+name: rented_bikes

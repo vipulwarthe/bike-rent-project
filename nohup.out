@@ -1,0 +1,13 @@
+[2023-06-27 10:50:51 +0000] [46243] [INFO] Starting gunicorn 20.1.0
+[2023-06-27 10:50:51 +0000] [46243] [INFO] Listening at: http://0.0.0.0:5000 (46243)
+[2023-06-27 10:50:51 +0000] [46243] [INFO] Using worker: sync
+[2023-06-27 10:50:51 +0000] [46247] [INFO] Booting worker with pid: 46247
+[2023-06-27 10:50:51 +0000] [46248] [INFO] Booting worker with pid: 46248
+[2023-06-27 10:50:51 +0000] [46249] [INFO] Booting worker with pid: 46249
+[2023-06-27 10:50:51 +0000] [46250] [INFO] Booting worker with pid: 46250
+[2023-06-27 10:54:30 +0000] [46243] [CRITICAL] WORKER TIMEOUT (pid:46250)
+[2023-06-27 10:54:30 +0000] [46250] [INFO] Worker exiting (pid: 46250)
+[2023-06-27 10:54:30 +0000] [47513] [INFO] Booting worker with pid: 47513
+[2023-06-27 10:55:13 +0000] [46243] [CRITICAL] WORKER TIMEOUT (pid:47513)
+[2023-06-27 10:55:13 +0000] [47513] [INFO] Worker exiting (pid: 47513)
+[2023-06-27 10:55:13 +0000] [47537] [INFO] Booting worker with pid: 47537
